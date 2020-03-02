@@ -9,7 +9,34 @@ You can use the [editor on GitHub](https://github.com/shireddy/shireddy.github.i
 ### About course -
 **Master of Management | Dept of Management Studies | IISc,Bangalore**
 
-Master of Management(M.Mgt) is a 2 years Post Graduate course in Management for Engineering graduates with 2 Specialization: Business Analytics and Technology Management.
+Master of Management(M.Mgt) is a 2 years Post Graduate course in Management for Engineering graduates with 2 Specialization: Business Analytics and Technology Management. /
+Batch Strength : 19
+
+Image : OF 2 years course.
+
+Features :
+Low batch strength
+IISC brand 
+Best Placement Record
+ROI
+
+### Eligibility crteria  -
+
+1. Candidates with first class in B.E/ B.Tech/ B.Sc (Engg.)/ B.S (4 years technical field)/ equivalent.
+2. Qualified in anyone entrance exam : /
+    a. CAT /
+    b. GMAT /
+    c. GATE(Last 3 years)
+    
+### Application process -
+
+Image
+
+### Cutoff
+
+Image
+
+### Placement Record
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
