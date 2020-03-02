@@ -1,4 +1,4 @@
-## About 
+# About 
 
 Myself Shiva Reddy,final year student of M.Mgt in Business Analytics and will be graduating in June 2020.
 Currently doing final year project at Ab-inbev.
