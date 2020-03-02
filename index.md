@@ -1,39 +1,17 @@
-# About 
+# About me
 
-Myself Shiva Reddy,final year student of M.Mgt in Business Analytics and will be graduating in June 2020.
-Currently doing final year project at Ab-inbev.
-To connect with me,join me on [Linkedin](https://www.linkedin.com/in/shivshankar-reddy/)
-POR : Placement Coordinator for batch 2018-20.
+Myself Shiva Reddy,final year student of M.Mgt in Business Analytics at Indian Insitute of Science,Bangalore and will be graduating in June 2020.\
+Currently doing final year project at Ab-inbev. \
+To connect with me,join me on [Linkedin](https://www.linkedin.com/in/shivshankar-reddy/)\
+POR : Placement Coordinator for batch 2018-20.\
 You can use the [editor on GitHub](https://github.com/shireddy/shireddy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-### Markdown
+### About course -
+**Master of Management | Dept of Management Studies | IISc,Bangalore**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Master of Management(M.Mgt) is a 2 years Post Graduate course in Management for Engineering graduates with 2 Specialization: Business Analytics and Technology Management.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shireddy/shireddy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
