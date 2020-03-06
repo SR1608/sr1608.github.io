@@ -28,9 +28,12 @@ ROI
     b. GMAT /
     c. GATE(Last 3 years)
     
-### Application process -
+### Addmission process -
 
-Image
+
+<div class="row">
+<img src="/images/admission process.PNG">
+</div>
 
 ### Cutoff
 
