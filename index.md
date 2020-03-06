@@ -34,7 +34,8 @@ Image
 
 ### Cutoff
 
-Image
+<div class="row">
+<img src="/images/cut_off20.PNG">
 
 ### Placement Record
 
