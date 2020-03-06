@@ -12,7 +12,10 @@ You can use the [editor on GitHub](https://github.com/shireddy/shireddy.github.i
 Master of Management(M.Mgt) is a 2 years Post Graduate course in Management for Engineering graduates with 2 Specialization: Business Analytics and Technology Management. /
 Batch Strength : 19
 
-Image : OF 2 years course.
+### Course Timeline -
+<div class="row">
+<img src="/images/course_timeline.PNG">
+</div>
 
 Features :
 Low batch strength
