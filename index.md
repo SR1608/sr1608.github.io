@@ -30,7 +30,8 @@ ROI
     a. CAT /
     b. GMAT /
     c. GATE(Last 3 years)
-    
+ To pay click on :
+ Deadline : 23rd March
 ### Admission process -
 
 
@@ -46,6 +47,9 @@ ROI
 
 ### Placement Record
 
+<div class="row">
+<img src="/images/placement_stats.PNG">
+</div>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
