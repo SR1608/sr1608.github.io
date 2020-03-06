@@ -28,7 +28,7 @@ ROI
     b. GMAT /
     c. GATE(Last 3 years)
     
-### Addmission process -
+### Admission process -
 
 
 <div class="row">
