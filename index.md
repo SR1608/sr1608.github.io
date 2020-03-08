@@ -1,15 +1,15 @@
 # About me
 
-Myself Shiva Reddy,final year student of M.Mgt in Business Analytics at Indian Insitute of Science,Bangalore and will be graduating in June 2020.\
-Currently doing final year project at Ab-inbev. \
-To connect with me,join me on [Linkedin](https://www.linkedin.com/in/shivshankar-reddy/)\
-POR : Placement Coordinator for batch 2018-20.\
+Myself Shiva Reddy,final year student of M.Mgt in Business Analytics at Indian Insitute of Science,Bangalore and will be graduating in June 2020.<br />
+Currently doing final year project at Ab-inbev. <br />
+To connect with me,join me on [Linkedin](https://www.linkedin.com/in/shivshankar-reddy/)<br />
+POR : Placement Coordinator for batch 2018-20.<br />
 You can use the [editor on GitHub](https://github.com/shireddy/shireddy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 ### About course -
 **Master of Management | Dept of Management Studies | IISc,Bangalore**
 
-Master of Management(M.Mgt) is a 2 years Post Graduate course in Management for Engineering graduates with 2 Specialization: Business Analytics and Technology Management. /
+Master of Management(M.Mgt) is a 2 years Post Graduate course in Management for Engineering graduates with 2 Specialization: Business Analytics and Technology Management. <br />
 Batch Strength : 19
 
 ### Course Timeline -
@@ -26,11 +26,11 @@ ROI
 ### Eligibility crteria  -
 
 1. Candidates with first class in B.E/ B.Tech/ B.Sc (Engg.)/ B.S (4 years technical field)/ equivalent.
-2. Qualified in anyone entrance exam : /
-    a. CAT /
-    b. GMAT /
-    c. GATE(Last 3 years)
- To pay click on :
+2. Qualified in anyone entrance exam : <br />
+    a. CAT <br />
+    b. GMAT <br />
+    c. GATE(Last 3 years)<br />
+ To pay click on :<br />
  Deadline : 23rd March
  
 ### Admission process -
