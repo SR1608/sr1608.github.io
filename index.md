@@ -1,7 +1,6 @@
 # About me
 
-Myself Shiva Reddy,final year student of M.Mgt in Business Analytics at Indian Insitute of Science,Bangalore and will be graduating in June 2020.<br />
-Currently doing final year project at Ab-inbev. <br />
+Myself Shiva Reddy,final year student of M.Mgt in Business Analytics at Indian Insitute of Science,Bangalore and will be graduating in June 2020.Currently doing final year project at Ab-inbev. <br />
 To connect with me,join me on [Linkedin](https://www.linkedin.com/in/shivshankar-reddy/)<br />
 POR : Placement Coordinator for batch 2018-20.<br />
 You can use the [editor on GitHub](https://github.com/shireddy/shireddy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
